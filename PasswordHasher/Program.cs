@@ -18,4 +18,6 @@ else
 var hashed = PasswordHelper.HashPassword(plainText);
 Console.WriteLine(hashed);
 
+Console.ReadLine();
+
 
